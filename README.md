@@ -1,10 +1,7 @@
 ### Hi there 👋 Nice to meet you!
 
 
-- 🔭 I’m currently working with marketing;
-- 🌱 I’m currently learning programing, using JavaScript, SQL, HTML5 and CSS;
-- 📫 How to reach me: jeunonc@gmail.com;
-- ⚡ Fun fact: I've been working with marketing but decided to change my career to become a programmer! 
+
 
 <div align="center">
   <a href="https://github.com/carolinejeunon">
